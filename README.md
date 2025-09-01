@@ -36,4 +36,4 @@ Mi enfoque está en crear soluciones **eficientes y escalables** que combinen **
 ---
 
 ## 🌐 Conéctemos
-- [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/nicoalfonsoperry/))  
+- <a href="https://www.linkedin.com/in/nicoalfonsoperry/" target="_blank">LinkedIn</a>
